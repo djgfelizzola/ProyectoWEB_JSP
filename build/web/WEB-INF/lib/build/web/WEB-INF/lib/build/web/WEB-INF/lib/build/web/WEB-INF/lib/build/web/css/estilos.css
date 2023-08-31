@@ -1,0 +1,115 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/09/2019, 02:10:00 PM
+    Author     : saty_
+*/
+
+
+.glyphicon.glyphicon-envelope {
+    font-size: 25px;
+
+}
+.glyphicon.glyphicon-thumbs-up {
+    font-size: 25px;
+}
+.glyphicon.glyphicon-phone-alt {
+    font-size: 25px;
+}
+
+
+.jumbotron{
+    background-color: #d7d7a8 !important;
+        text-align:center !important; 
+        font-family: Arial !important; 
+        color: black !important;
+}
+#pie{
+    padding: 60px;
+    text-align: center;
+    background-color: #404E6B;
+    color:white;
+}
+body{
+    color:#804000;
+}
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color: #d7d7a8;
+    color:#804000;
+}
+#pic{
+    border-radius: 50%;
+}
+.card{
+
+    background: #404E6B;
+    color:white;
+}
+.navbar{
+    background-color: #404E6B !important;
+    color:white !important;
+}
+
+#navbar li a:link, #navbar li a:visited{
+    color: white !important;
+}
+#navbar li a:hover,#navbar li a:active{
+    color: #d7d7a8 !important;
+}
+pie li a:link, #pie li a:visited{
+    color: white !important;
+}
+#pie li a:hover,#pie li a:active{
+    color: #d7d7a8 !important;
+}
+
+.navbar-brand:link,.navbar-brand:visited{
+    color: white !important;
+}
+.navbar-brand:hover,.navbar-brand:active{
+    color: #d7d7a8 !important;
+}
+.dropdown-item:div a {
+    color:black !important;
+}
+
+#myCarousel{
+    background: white;
+}
+
+    .card{
+        border: white 8px ridge ;
+        background: #404E6B;
+        color:white;
+        text-align: center !important;
+        margin-bottom: 14px;
+    }
+
+    #boton{
+        display: inline-block;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+
+
+    #imagen{
+        width: 900px;
+        height: 500px;
+    }
+
+    #imagenCatalogo{
+        display:block;
+        margin:auto;
+    }
+    
+    #imagenCentral{
+        width: 200px;
+    }
